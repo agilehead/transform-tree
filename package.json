@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Jeswin Kumar",
+    "email": "jeswinpk@agilehead.com"
+  },
+  "name": "transform-tree",
+  "version": "0.1.0",
+  "description": "Transform a tree by passing every node through a transformation function",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeswin/transform-tree.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "istanbul-harmony": "0",
+    "mocha": "^2.0.0"
+  },
+  "main": "lib/transform-tree",
+  "engines": {
+    "node": ">= 0.11.9"
+  },
+  "keywords": [
+    "vistor",
+    "trees"
+  ],
+  "license": "GPL-3.0+"
+}
